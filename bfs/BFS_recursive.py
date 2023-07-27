@@ -52,3 +52,5 @@ if __name__ == "__main__":
             q.append(i)
 
             BFS(graph, q, discovered)
+
+# O(V + E) 

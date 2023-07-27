@@ -29,3 +29,5 @@ if __name__ == "__main__":
         print("Target found at index ", index )
     else:
         print("Target not found in list")
+
+# O(log2n) time complexity & O(1) space complexity
